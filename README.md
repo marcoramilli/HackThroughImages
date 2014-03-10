@@ -11,3 +11,7 @@ For more details read the following blog posts:
 [Hacking through image: the gif turn](http://marcoramilli.blogspot.it/2014/01/hacking-through-image-gif-turn.html)
 [Hacking through images: the bmp turn](http://marcoramilli.blogspot.it/2013/10/hacking-through-images.html)
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/marcoramilli/hackthroughimages/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
