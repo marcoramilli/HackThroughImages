@@ -1,4 +1,4 @@
-HackThroughImages
+HackThroughImages [![Support Marco via Gittip](http://img.shields.io/gittip/marco.svg)](https://www.gittip.com/marco/)
 =================
 
 A PoC showing how it is possible to build a valid image and a valid javasctipt contemporary.
